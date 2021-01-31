@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ExampleComponent should render my component 1`] = `
+Array [
+  <Connect(ExampleComponent)
+    i18n={Object {}}
+    t={[Function]}
+    tReady={false}
+  />,
+]
+`;

@@ -1,0 +1,21 @@
+html {
+  position: fixed;
+  overflow: hidden;
+}
+
+.container {
+  &__content {
+    min-height: 100vh;
+    padding-bottom: 50px;
+  }
+}
+
+.suspense {
+  &__global {
+    display: flex;
+    height: 100vh;
+    span {
+      margin: auto;
+    }
+  }
+}

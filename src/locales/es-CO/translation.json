@@ -1,0 +1,3 @@
+{
+  "messages": { "welcome": "Hola {{name}}" }
+}
